@@ -1,0 +1,9 @@
+{
+    "name": "html2jade-service",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": ">=2.5.0",
+        "jade": ">=0.26.0",
+        "html2jade": ">=0.1.0"
+    }
+}
